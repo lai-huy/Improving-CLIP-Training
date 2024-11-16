@@ -1,4 +1,6 @@
 *.log
+*.tar
+*.tar.gz
 
 clip_train/
 datasets/
